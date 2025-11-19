@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="AF0FAF90-DB15-4A8A-853B-4C77E6CCF5DD" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-M7NTLA2" Modified="2025-11-18 18:03:36 -0700" ModID="347153E3-CF16-4103-8996-55EF8DBF3489">
+    <Binder>
+        <BinderItem UUID="B5DBED40-536B-4C3E-8C2F-271EE8DA48E4" Type="Folder" Created="2025-11-17 21:06:18 -0700" Modified="2025-11-17 21:30:14 -0700">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <StatusID>0</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="38C8F21B-9222-4F50-827E-A33B0AAA8EBE" Type="Folder" Created="2025-11-17 21:06:26 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Cover Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B2404FF7-E19F-4624-BFBA-AA1810F9FC05" Type="Folder" Created="2025-11-17 21:06:42 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Caption</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="29C05DB0-AB47-4A76-A8A6-08E45CC81B26" Type="DraftFolder" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-17 21:30:38 -0700">
+            <Title>Draft</Title>
+            <MetaData>
+                <StatusID>0</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="590F4325-32AB-4132-99D2-BEA55DC3A9B8" Type="Folder" Created="2025-11-17 21:15:04 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="389C555A-3E05-4015-8CD2-8008699752E4" Type="Folder" Created="2025-11-17 21:15:17 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Issues And Brief Answers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D7BB7CE8-2B6A-4866-A6C9-625008CCA1DF" Type="Folder" Created="2025-11-17 21:15:33 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Facts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B2644093-DFAC-4291-975E-363A881D9801" Type="Folder" Created="2025-11-17 21:15:41 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Discussion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>5CCA3C64-B640-4378-9467-2FCC116DF64B</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="EB98B7FB-3F6F-4186-A263-7611A4EE43DF" Type="Folder" Created="2025-11-17 21:17:34 -0700" Modified="2025-11-17 21:38:33 -0700">
+                            <Title>Umbrella Rule</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0F7AAD5C-6054-4E83-A63D-2308E16CC4F1" Type="Text" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-18 17:24:08 -0700">
+                                    <Title>Header</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>209,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0A082DF6-32C1-4EA5-8679-9A58C33F20F6" Type="Text" Created="2025-11-18 17:23:54 -0700" Modified="2025-11-18 18:03:30 -0700">
+                                    <Title>Umbrella Rule</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>47,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CCDF60B7-FD54-4012-B206-B950E210F675" Type="Text" Created="2025-11-17 21:18:17 -0700" Modified="2025-11-17 21:38:33 -0700">
+                                    <Title>Roadmap</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="E8F90E91-4259-4F6C-B0D3-59B13C198433" Type="Folder" Created="2025-11-17 21:17:45 -0700" Modified="2025-11-17 21:38:33 -0700">
+                            <Title>Reasonable Accomodation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B37EFE95-A5EA-42EC-A559-45EAAB9A4D25" Type="Text" Created="2025-11-17 21:18:24 -0700" Modified="2025-11-17 21:38:33 -0700">
+                                    <Title>Was offer Reasonable</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5A545E80-497B-4D00-8F20-257543B9F298" Type="Text" Created="2025-11-17 21:18:45 -0700" Modified="2025-11-17 21:38:33 -0700">
+                                    <Title>Did employee Discharge Burden</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="5CCA3C64-B640-4378-9467-2FCC116DF64B" Type="Folder" Created="2025-11-17 21:18:02 -0700" Modified="2025-11-17 21:38:33 -0700">
+                            <Title>Undue Hardship</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D085469E-DF13-498B-9068-F741E76F8C8D" Type="Text" Created="2025-11-17 21:19:01 -0700" Modified="2025-11-17 21:38:33 -0700">
+                                    <Title>Undue Hardship to Company</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="19337901-A295-4E7D-8B98-CBC172897A8C" Type="Text" Created="2025-11-17 21:19:10 -0700" Modified="2025-11-17 21:38:33 -0700">
+                                    <Title>Undue Hardship to Employees</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6BCEA8F7-67E0-46E1-B200-D7DBEFB9BF2F" Type="Folder" Created="2025-11-17 21:16:01 -0700" Modified="2025-11-17 21:38:33 -0700">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="B72FA6F8-A92D-47DD-B13A-9F3499198B24" Type="ResearchFolder" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-17 20:09:44 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="D0FD51BA-D570-4EC0-82C4-BC54F097A3D7" Type="Folder" Created="2025-11-18 17:36:40 -0700" Modified="2025-11-18 17:36:43 -0700">
+                    <Title>Goals</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>C90AA189-B420-4448-BB7D-DC8D122AFEAD</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="C90AA189-B420-4448-BB7D-DC8D122AFEAD" Type="Text" Created="2025-11-18 17:36:47 -0700" Modified="2025-11-18 17:36:53 -0700">
+                            <Title>Firm Goals</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C8CFC2A0-3E06-4AF7-8A36-BA759BEED525" Type="Text" Created="2025-11-18 17:59:02 -0700" Modified="2025-11-18 18:03:15 -0700">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10,47</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="FE9A44CC-B68C-43D4-B0F1-275807A31885" Type="TrashFolder" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-17 20:09:44 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="1AC967FC-370F-443A-AD3E-226CDDE6C330" Color="0.200000 0.258824 0.172549">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="ABCD7486-8F3B-4B7B-9AC5-1E603BEFC5BC" Color="0.200000 0.258824 0.172549">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="FE298708-503D-4F83-A5A1-B18A62C6618C">Heading</Type>
+            <Type ID="A4912A94-9546-4C29-B5C0-E8C40E672CA1">Sub-Heading</Type>
+            <Type ID="147597CA-6080-4202-9B8A-59DEB69804C7">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>FE298708-503D-4F83-A5A1-B18A62C6618C</Type>
+            </Folders>
+            <Containers>
+                <Type>147597CA-6080-4202-9B8A-59DEB69804C7</Type>
+            </Containers>
+            <Files>
+                <Type>147597CA-6080-4202-9B8A-59DEB69804C7</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="2" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="3" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="4" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="5" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-11-17 21:26:51 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="312" Characters="2063" Date="2025-11-18 18:03:36 -0700"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2025-11-18 00:00:00 -0700">
+        <DraftWordCount>41</DraftWordCount>
+        <DraftCharCount>256</DraftCharCount>
+        <OtherWordCount>271</OtherWordCount>
+        <OtherCharCount>1807</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
