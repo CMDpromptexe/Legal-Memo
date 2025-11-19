@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="AF0FAF90-DB15-4A8A-853B-4C77E6CCF5DD" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-M7NTLA2" Modified="2025-11-18 18:03:36 -0700" ModID="347153E3-CF16-4103-8996-55EF8DBF3489">
+<ScrivenerProject Template="No" Version="2.0" Identifier="AF0FAF90-DB15-4A8A-853B-4C77E6CCF5DD" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-M7NTLA2" Modified="2025-11-18 19:55:10 -0700" ModID="3AFC60AB-5408-4161-A036-4F704E51C18A">
     <Binder>
         <BinderItem UUID="B5DBED40-536B-4C3E-8C2F-271EE8DA48E4" Type="Folder" Created="2025-11-17 21:06:18 -0700" Modified="2025-11-17 21:30:14 -0700">
             <Title>Front Matter</Title>
@@ -89,31 +89,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="0F7AAD5C-6054-4E83-A63D-2308E16CC4F1" Type="Text" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-18 17:24:08 -0700">
-                                    <Title>Header</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>209,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="0A082DF6-32C1-4EA5-8679-9A58C33F20F6" Type="Text" Created="2025-11-18 17:23:54 -0700" Modified="2025-11-18 18:03:30 -0700">
+                                <BinderItem UUID="0A082DF6-32C1-4EA5-8679-9A58C33F20F6" Type="Text" Created="2025-11-18 17:23:54 -0700" Modified="2025-11-18 19:54:09 -0700">
                                     <Title>Umbrella Rule</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>47,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="CCDF60B7-FD54-4012-B206-B950E210F675" Type="Text" Created="2025-11-17 21:18:17 -0700" Modified="2025-11-17 21:38:33 -0700">
-                                    <Title>Roadmap</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>365,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -127,8 +109,17 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B37EFE95-A5EA-42EC-A559-45EAAB9A4D25" Type="Text" Created="2025-11-17 21:18:24 -0700" Modified="2025-11-17 21:38:33 -0700">
-                                    <Title>Was offer Reasonable</Title>
+                                <BinderItem UUID="B37EFE95-A5EA-42EC-A559-45EAAB9A4D25" Type="Text" Created="2025-11-17 21:18:24 -0700" Modified="2025-11-18 19:55:08 -0700">
+                                    <Title>A</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>264,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5A545E80-497B-4D00-8F20-257543B9F298" Type="Text" Created="2025-11-17 21:18:45 -0700" Modified="2025-11-18 19:52:09 -0700">
+                                    <Title>A1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -136,8 +127,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5A545E80-497B-4D00-8F20-257543B9F298" Type="Text" Created="2025-11-17 21:18:45 -0700" Modified="2025-11-17 21:38:33 -0700">
-                                    <Title>Did employee Discharge Burden</Title>
+                                <BinderItem UUID="47172FB1-681B-4A4C-9827-48B281F84F99" Type="Text" Created="2025-11-18 19:52:12 -0700" Modified="2025-11-18 19:52:16 -0700">
+                                    <Title>A2</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -156,6 +147,15 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="D19CA45A-48B5-43CF-AA73-385B3A3E5D94" Type="Text" Created="2025-11-18 19:52:19 -0700" Modified="2025-11-18 19:52:23 -0700">
+                                    <Title>B</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="D085469E-DF13-498B-9068-F741E76F8C8D" Type="Text" Created="2025-11-17 21:19:01 -0700" Modified="2025-11-17 21:38:33 -0700">
                                     <Title>Undue Hardship to Company</Title>
                                     <MetaData>
@@ -210,21 +210,30 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="C90AA189-B420-4448-BB7D-DC8D122AFEAD" Type="Text" Created="2025-11-18 17:36:47 -0700" Modified="2025-11-18 17:36:53 -0700">
+                        <BinderItem UUID="C90AA189-B420-4448-BB7D-DC8D122AFEAD" Type="Text" Created="2025-11-18 17:36:47 -0700" Modified="2025-11-18 18:32:03 -0700">
                             <Title>Firm Goals</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>343,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C8CFC2A0-3E06-4AF7-8A36-BA759BEED525" Type="Text" Created="2025-11-18 17:59:02 -0700" Modified="2025-11-18 18:03:15 -0700">
+                        <BinderItem UUID="C8CFC2A0-3E06-4AF7-8A36-BA759BEED525" Type="Text" Created="2025-11-18 17:59:02 -0700" Modified="2025-11-18 19:32:13 -0700">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10,47</TextSelection>
+                                <TextSelection>1830,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="12B3D13E-9A19-4E55-AF8D-A58A072FB3B2" Type="Text" Created="2025-11-18 18:36:24 -0700" Modified="2025-11-18 18:38:58 -0700">
+                            <Title>memo targets</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -236,6 +245,26 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="CCDF60B7-FD54-4012-B206-B950E210F675" Type="Text" Created="2025-11-17 21:18:17 -0700" Modified="2025-11-18 19:23:30 -0700">
+                    <Title>Roadmap</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>38,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0F7AAD5C-6054-4E83-A63D-2308E16CC4F1" Type="Text" Created="2025-11-17 20:09:44 -0700" Modified="2025-11-18 17:24:08 -0700">
+                    <Title>Header</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,209</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -292,15 +321,15 @@
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-11-17 21:26:51 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <DraftTarget Type="Pages" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-11-17 21:26:51 -0700" IgnoreDeadline="Yes">14</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="312" Characters="2063" Date="2025-11-18 18:03:36 -0700"/>
+        <PreviousSession Words="600" Characters="3829" Date="2025-11-18 19:55:10 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-11-18 00:00:00 -0700">
-        <DraftWordCount>41</DraftWordCount>
-        <DraftCharCount>256</DraftCharCount>
-        <OtherWordCount>271</OtherWordCount>
-        <OtherCharCount>1807</OtherCharCount>
+        <DraftWordCount>241</DraftWordCount>
+        <DraftCharCount>1605</DraftCharCount>
+        <OtherWordCount>359</OtherWordCount>
+        <OtherCharCount>2224</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
