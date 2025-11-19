@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="AF0FAF90-DB15-4A8A-853B-4C77E6CCF5DD" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-M7NTLA2" Modified="2025-11-18 22:59:03 -0700" ModID="6D3864B7-2748-4E11-AF1C-B4CC01DF885F">
+<ScrivenerProject Template="No" Version="2.0" Identifier="AF0FAF90-DB15-4A8A-853B-4C77E6CCF5DD" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-M7NTLA2" Modified="2025-11-18 23:39:23 -0700" ModID="50820232-FDBC-4241-920B-E1A1B148A669">
     <Binder>
         <BinderItem UUID="B5DBED40-536B-4C3E-8C2F-271EE8DA48E4" Type="Folder" Created="2025-11-17 21:06:18 -0700" Modified="2025-11-17 21:30:14 -0700">
             <Title>Front Matter</Title>
@@ -95,7 +95,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>208,0</TextSelection>
+                                        <TextSelection Caret="918">902,16</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -109,22 +109,22 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B37EFE95-A5EA-42EC-A559-45EAAB9A4D25" Type="Text" Created="2025-11-17 21:18:24 -0700" Modified="2025-11-18 22:01:11 -0700">
+                                <BinderItem UUID="B37EFE95-A5EA-42EC-A559-45EAAB9A4D25" Type="Text" Created="2025-11-17 21:18:24 -0700" Modified="2025-11-18 23:37:35 -0700">
                                     <Title>A</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>651,0</TextSelection>
+                                        <TextSelection>517,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5A545E80-497B-4D00-8F20-257543B9F298" Type="Text" Created="2025-11-17 21:18:45 -0700" Modified="2025-11-18 22:58:13 -0700">
+                                <BinderItem UUID="5A545E80-497B-4D00-8F20-257543B9F298" Type="Text" Created="2025-11-17 21:18:45 -0700" Modified="2025-11-18 23:38:45 -0700">
                                     <Title>A1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1654,0</TextSelection>
+                                        <TextSelection>2390,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="47172FB1-681B-4A4C-9827-48B281F84F99" Type="Text" Created="2025-11-18 19:52:12 -0700" Modified="2025-11-18 19:52:16 -0700">
@@ -402,11 +402,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Pages" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-11-17 21:26:51 -0700" IgnoreDeadline="Yes">14</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="949" Characters="5982" Date="2025-11-18 22:59:03 -0700"/>
+        <PreviousSession Words="1071" Characters="6708" Date="2025-11-18 23:39:23 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2025-11-18 00:00:00 -0700">
-        <DraftWordCount>590</DraftWordCount>
-        <DraftCharCount>3758</DraftCharCount>
+        <DraftWordCount>712</DraftWordCount>
+        <DraftCharCount>4484</DraftCharCount>
         <OtherWordCount>359</OtherWordCount>
         <OtherCharCount>2224</OtherCharCount>
     </RecentWritingHistory>
